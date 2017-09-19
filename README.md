@@ -1,2 +1,2 @@
 # Components_page
-a page to comparison computer components
+組員：0424041  0424019
